@@ -1,0 +1,27 @@
+# Java / Spring Boot
+backend/target/
+backend/.mvn/
+backend/*.class
+*.jar
+!backend/.mvn/wrapper/maven-wrapper.jar
+
+# Node / React
+web-portal/node_modules/
+web-portal/build/
+web-portal/.env
+web-portal/npm-debug.log*
+
+# Android
+app-movil/*.iml
+app-movil/.gradle/
+app-movil/local.properties
+app-movil/.idea/
+app-movil/build/
+app-movil/app/build/
+app-movil/.DS_Store
+
+# Generales
+.env
+.vscode/
+.idea/
+*.log
